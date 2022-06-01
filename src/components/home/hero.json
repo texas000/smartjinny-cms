@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_home_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
