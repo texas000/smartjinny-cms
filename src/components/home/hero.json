@@ -2,12 +2,20 @@
   "collectionName": "components_home_heroes",
   "info": {
     "displayName": "Hero",
-    "icon": "apple-alt"
+    "icon": "apple-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "data": {
-      "type": "json"
+    "background": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
     }
   }
 }
